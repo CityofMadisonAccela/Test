@@ -1,0 +1,1 @@
+ var templateCAP=aa.cap.getCapIDModel("08898", "00000", "00119").getOutput();var subgroups = new Array();subgroups[0] = "TRADE NAME";var targetCAP1=aa.cap.getCapIDModel("08898", "00000", "00121").getOutput();aa.appSpecificInfo.copyASISubGroups(templateCAP, targetCAP1, subgroups);

@@ -1,0 +1,1 @@
+ var groupCode="TRADE";var subgroups = new Array();subgroups[0] = "TRADE NAME";var targetCAP3=aa.cap.getCapIDModel("08898", "00000", "00123").getOutput();aa.appSpecificInfo.addRefASISubgroupsToCAP(groupCode, subgroups, targetCAP3);
